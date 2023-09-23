@@ -1,15 +1,39 @@
-<h1>Hey there, I'm Garrett 👋. Welcome to my Github!</h1><hr/>
-
-<div class="display:flex; justify-content:between;">
+<h1>Hey there, I'm Garrett 🤘. Welcome to my Github!</h1>
+<!-- <img src="/desktop/me.jpg" alt="snek" height="128px"> -->
   <h2> Full Stack Software Engineer</h2>
-  <h2> Currently an Instructor's Assistant @ Colorado Tech University</h2>
-</div>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+  <h2> Currently Role of Employment: Instructor's Assistant @ Colorado Tech University</h2>
+
+<h3> 💻 I’m currently learning ...</h3>
+    <table border="1";>
+        <thead>
+            <tr>
+                <th>Front-End</th>
+                <th>Back-End</th>
+                <th>Frameworks</th>
+                <th>Libraries</th>
+                <th>Faves</th>
+            </tr>
+          <tbody>
+            <tr>
+                <td>TypeScript</td>
+                <td>Java/Spring</td>
+                <td>Tailwind CSS</td>
+                <td>Material UI</td>
+                <td>Full Stack Javascript(React)</td>
+            </tr>
+            <tr>
+                <td>SASS</td>
+                <td>Django</td>
+                <td>Next.js</td>
+                <td>Socket.IO</td>
+                <td>MYSQL Many-to-Many w/ Python-Flask </td>
+            </tr>
+          </tbody>
+        </thead>
+    </table>
+- 
+- 🤔 I’m looking for roles such as ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
