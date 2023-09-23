@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+<h1 style='color🔴'>Garrett Turner!</h1>
 
-**Garrett-Productions/Garrett-Productions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 <h1>Hey there welcome to my Github!</h1>
