@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Garrett
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-<h1 style="color: red;">Garrett Turner </h1>
+<div class="d-flex justify-content-between>
+  <h1>Welcome to my Github </h1>
+  <p> check me out bruh im flexed</p>
+</div>
 
 Here are some ideas to get you started:
 <h1>Hey there welcome to my Github!</h1>
