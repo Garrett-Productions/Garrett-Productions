@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<h1 style="color:red;">Garrett Turner!</h1>
-
+<h1 style="color: red;">Garrett Turner </h1>
 
 Here are some ideas to get you started:
 <h1>Hey there welcome to my Github!</h1>
