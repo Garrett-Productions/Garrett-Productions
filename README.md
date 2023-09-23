@@ -1,4 +1,9 @@
-<h1>Hey there, I'm Garrett 👋. Welcome to my Github!</h1>
+<h1>Hey there, I'm Garrett 👋. Welcome to my Github!</h1><hr/>
+
+<div class="display:flex; justify-content:between;">
+  <h2> Full Stack Software Engineer</h2>
+  <h2> Currently an Instructor's Assistant @ Colorado Tech University</h2>
+</div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
