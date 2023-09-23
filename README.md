@@ -1,9 +1,4 @@
-### Hi there 👋 I'm Garrett
-
-
-
-Here are some ideas to get you started:
-<h1>Hey there welcome to my Github!</h1>
+<h1>Hey there, I'm Garrett 👋. Welcome to my Github!</h1>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
