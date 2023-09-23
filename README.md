@@ -31,8 +31,19 @@
           </tbody>
         </thead>
     </table>
-- 
-- 🤔 I’m looking for roles such as ...
+<h3>🤔 I’m looking for roles such as ...</h3>
+<table border="1";>
+        <thead>
+            <tr>
+                <th>~~Desired Roles~~</th>
+            </tr>
+          <tbody>
+            <tr>
+                <td>Front End Engineer | Full Stack Engineer | Database Engineer</td>
+            </tr>
+          </tbody>
+        </thead>
+    </table>
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
