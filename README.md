@@ -53,5 +53,5 @@
 - Email: Gturner@codingdojo.com
 - Discord: TA-Garrett#5287
 - LinkedIn: https://www.linkedin.com/in/garrettturner-developer/
-
+- Resume/Website: https://bold.pro/my/garrett-developer
 
