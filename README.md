@@ -33,6 +33,8 @@
           </tbody>
         </thead>
     </table>
+  <h3> 🏫 I’m currently Teaching and Assisting with 20-30 students through an 8 week Full Stack MERN cohort</h3>
+
 <h3>🤔 I’m looking for roles such as ...</h3>
 <table border="1";>
         <thead>
