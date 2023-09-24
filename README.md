@@ -1,6 +1,7 @@
 <h1>Hey there, I'm Garrett 🤘. Welcome to my Github!</h1>
 <!-- <img src="/desktop/me.jpg" alt="snek" height="128px"> -->
   <h2> Full Stack Software Engineer</h2>
+![me](https://github.com/Garrett-Productions/Garrett-Productions/assets/101834104/d52c446a-0318-4dd3-ab38-76b7e3df5bc6)
 
   <h2> Current Role/Place of Employment: Instructor's Assistant @ Colorado Tech University</h2>
 
