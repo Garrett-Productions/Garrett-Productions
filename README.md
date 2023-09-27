@@ -48,8 +48,6 @@
           </tbody>
         </thead>
     </table>
-    
-<h3>Notworthy Deployed Projects here</h3>
 
 
 📫 How to reach me:
