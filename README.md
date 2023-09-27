@@ -1,4 +1,4 @@
-<h1>Hey there, I'm Garrett 🤘. Welcome to my Github!</h1>
+<h1>Hey, I'm Garrett 🤘. Welcome to my Github!</h1>
 <p>Enjot your stroll through my repositories!</p>
 <p>You can find my Website and contact section at the bottom, thx!</p>
 <!-- ![code_img](https://github.com/Garrett-Productions/Garrett-Productions/assets/101834104/7579ef55-bd15-4a29-baeb-bb84c803d408)
