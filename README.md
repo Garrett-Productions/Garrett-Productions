@@ -49,7 +49,7 @@
           </tbody>
         </thead>
     </table>
-
+    
 📫 How to reach me:
 - Email: Gturner@codingdojo.com
 - Discord: TA-Garrett#5287
