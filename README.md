@@ -1,5 +1,6 @@
 <h1>Hey, I'm Garrett 🤘. Welcome to my Github!</h1>
 <p>Please feel free to look through my repositories!</p>
+<p>My noteworthy, full stack projects are pinned.</p>
 <p>You can find my Website and contact section at the bottom, thx!</p>
 <!-- ![code_img](https://github.com/Garrett-Productions/Garrett-Productions/assets/101834104/7579ef55-bd15-4a29-baeb-bb84c803d408) -->
 
