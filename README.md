@@ -19,7 +19,7 @@
             </tr>
           <tbody>
             <tr>
-                <td>TypeScript </td>
+                <td>TypeScript</td>
                 <td>Java/Spring</td>
                 <td>Tailwind CSS</td>
                 <td>Material UI</td>
