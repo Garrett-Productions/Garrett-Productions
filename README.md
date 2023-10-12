@@ -26,7 +26,7 @@
                 <td>Full Stack Javascript(React)</td>
             </tr>
             <tr>
-                <td>SASS</td>
+                <td>SASSy</td>
                 <td>Django</td>
                 <td>Next.js</td>
                 <td>Socket.IO</td>
