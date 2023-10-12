@@ -1,4 +1,4 @@
-<h1>Hey, I'm Garrett 🤘. Welcome to my Github!</h1>
+<h1>Hey, I'm Garrett 🤘. Welcome to my Github!!</h1>
 <p>Please feel free to look through my repositories!</p>
 <p> My noteworthy, full stack projects, are pinned near the bottom.</p>
 <p>You can find my Website and contact section at the bottom, thx!</p>
