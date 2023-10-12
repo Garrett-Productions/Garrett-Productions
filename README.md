@@ -11,7 +11,7 @@
     <table border="1";>
         <thead>
             <tr>
-                <th>Front-End</th>
+                <th>Front-End </th>
                 <th>Back-End</th>
                 <th>Frameworks</th>
                 <th>Libraries</th>
