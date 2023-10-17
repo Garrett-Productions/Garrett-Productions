@@ -6,6 +6,7 @@
 
   <h2> Full Stack Software Engineer</h2> 
   <h2> Currently Coding @: Colorado Tech University as a Teaching Assistant!</h2>
+  <h2> Currently Building a MERN Chat App assisted with Ckara UI</h2>
 
 <h3> 💻 I’m currently learning...</h3>
     <table border="1";>
