@@ -22,7 +22,7 @@
                 <td>TypeScript</td>
                 <td>Java/Spring</td>
                 <td>Tailwind CSS</td>
-                <td>Material UI</td>
+                <td>Chakra UI / Socket io</td>
                 <td>Full Stack Javascript(React)</td>
             </tr>
             <tr>
