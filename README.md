@@ -6,7 +6,7 @@
 
   <h2> Full Stack Software Engineer</h2> 
   <h2> Currently Coding @: Colorado Tech University as a Teaching Assistant!</h2>
-  <h2> Currently Building a MERN Chat App assisted by Chakra UI</h2>
+  <h2> Currently Building a Full Stack MERN Chat App w/ Socket UI and login and reg capability by using tailwind CSS to style my site on the front end </h2>
 
 <h3> 💻 I’m currently learning...</h3>
     <table border="1";>
